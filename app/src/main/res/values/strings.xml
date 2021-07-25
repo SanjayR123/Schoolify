@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Schoolify</string>
+
+    <string name="title_activity_dashboard">Dashbaord</string>
+    <string name="title_activity_login">Dashbaord</string>
+
+    <string name="TodayClasses">Your Classes</string>
+    <string name="MessageSchool">Messages from your school</string>
+    <string name="input" />
+
+    <string-array name="TodayClasses">
+        <item>English (9:00 – 9:45)</item>
+        <item>English (9:47 – 10:27)</item>
+        <item>Chemistry (10:30 – 11:10)</item>
+        <item>Recess (11:10 – 11:40)</item>
+        <item>Physics (11:43 – 12:25)</item>
+        <item>Physics (12:27 – 1:10)</item>
+        <item>Lunch (1:12 – 1:54)</item>
+        <item>Accounting (1:57 – 2:40)</item>
+        <item>Maths (2:43 – 3:30)</item>
+    </string-array>
+
+    <string-array name="schoolMessages">
+        <item>Don\'t forget to wear your masks.</item>
+        <item>Chorals will be held at Theatre X on Monday.</item>
+        <item>Sign up nor for lawn bowls at sports offic.e</item>
+        <item>New books in the library!</item>
+    </string-array>
+
+    <string-array name="schools">
+        <item>Melbourne High School</item>
+        <item>Box Hill High School</item>
+        <item>Ivanhoe Grammar School</item>
+        <item>Scotch College</item>
+        <item>Glen Waverley Secondary College</item>
+    </string-array>
+</resources>
